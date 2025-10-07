@@ -38,6 +38,7 @@ section#login {
     box-shadow: 0 0 10px black;
 
     transition: width 0.5s ease, height 0.5s ease;
+     transform: translate(-50%, -50%);
 }
 
 section#login > div#imagem {
